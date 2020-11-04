@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="click_on_yes_to_exit_the_app">Click on yes to exit the app</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to EXIT</string>
+</resources>
