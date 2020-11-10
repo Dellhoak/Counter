@@ -125,5 +125,6 @@
 
     </com.google.android.gms.ads.AdView>
 
-
+<!--test ad banner - ca-app-pub-3940256099942544/6300978111
+     orignal - ca-app-pub-8341489867883063/5172221465-->
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343087717571",
+    "firebase_url": "https://counter-910a5.firebaseio.com",
+    "project_id": "counter-910a5",
+    "storage_bucket": "counter-910a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343087717571:android:e8193fbc03c32067c29676",
+        "android_client_info": {
+          "package_name": "com.dellhoak.counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343087717571-mrkoefho9r50cldoo2th2gjgt706ia5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD89rYYUyr-iro2dMfykcOltr_i1K6VY1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343087717571-mrkoefho9r50cldoo2th2gjgt706ia5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

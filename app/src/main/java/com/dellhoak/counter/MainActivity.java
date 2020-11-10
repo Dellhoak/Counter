@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setTitle(null);
 
         count = findViewById(R.id.count);
         plusebtn = findViewById(R.id.plusbtn);
@@ -77,7 +78,8 @@ public class MainActivity extends AppCompatActivity {
 
         //interstitial ad
         mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-8341489867883063/1332655597");
+        mInterstitialAd.setAdUnitId("ca-app-pub-8341489867883063/1332655597");  //test ad id -ca-app-pub-3940256099942544/1033173712
+        //orignal ad id ca-app-pub-8341489867883063/1332655597
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
 
         plusebtn.setOnClickListener(new View.OnClickListener() {
